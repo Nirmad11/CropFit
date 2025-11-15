@@ -23,11 +23,11 @@ Machine Learning:Random Forest
 API:OpenWeather 
 
 How to Run
-Backend
-1 cd backend
-2 python app.py
+###Backend(Flask)
+1. cd backend
+2. python app.py
 
-Frontend
-1 cd frontend
-2 npm install
-3 npm run dev
+###Frontend
+1. cd frontend
+2. npm install
+3. npm run dev
